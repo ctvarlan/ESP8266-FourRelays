@@ -10,4 +10,4 @@ At the beginning there were these parts:
 
 Because I still have the Android app in a some of my devices and I figured out the ESP8266 makes a good figure for this job I decided to translate everything on its small shoulders.
 
-I lost the sourse for AppInventor application so I had to match my lua scripts to the painfull format of the commands that I was using back then, in the intention to a reliant link over the serial communication channel.
+I lost the sourse for AppInventor application so I had to match my lua scripts to the painfull format of the commands that I was using back then, in the intention to a reliable link over the serial communication channel.
