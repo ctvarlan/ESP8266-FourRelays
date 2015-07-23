@@ -23,6 +23,6 @@ The main feature for this application (that means both the Android app and the E
 
 Description
 
-The hardware used is ESP8266-12, mounted on a developpement board as is seen here: http://www.aliexpress.com/store/product/ESP8266-serial-WIFI-industrial-grade-stable-version-of-the-test-plate-full-Total-IO-extraction/431798_32242633472.html
+The hardware used is ESP8266-12, mounted on a development board as is seen here: http://www.aliexpress.com/store/product/ESP8266-serial-WIFI-industrial-grade-stable-version-of-the-test-plate-full-Total-IO-extraction/431798_32242633472.html
 
-The four 
+The four gpio could command "doesn't matter what you want". Anyway, I choose four relays that are activated on LOW-level input.
