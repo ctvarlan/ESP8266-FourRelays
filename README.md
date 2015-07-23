@@ -12,8 +12,9 @@ Because I still have the Android app in a some of my devices and I figured out t
 
 The source for AppInventor application is so difficult to maintain or modify so I decided to match my Lua scripts to the painful format of the commands that I was using back then, in the intention to have a reliable link over the serial communication channel.
 
-The main feature for this application (that means both the Android app and the ESP8266 program) is that it memorize the last status of the outputs and refresh it on the remote device or update the satus if something happend with ESP8266. For short: you can see, when the app starts on the device, what is the actual status of the outputs.
+The main feature for this application (that means both the Android app and the ESP8266 program) is that it memorize the last status of the outputs and refresh it on the remote device or update the status if something happened with ESP8266. For short: you can see, when the app starts on the device, what is the actual status of the outputs.
 
 To Do:
-  1. To keep a record of date&time for each command sent (with some cloud support)
-  2. Sincronized apps for all devices; that means to dig in the AppInventor code :-(
+
+  1.To keep a record of date&time for each command sent (with some cloud support)
+  2.Synchronized apps for all devices; that means to dig in the AppInventor code :-(
