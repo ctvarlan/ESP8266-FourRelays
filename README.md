@@ -16,5 +16,5 @@ The main feature for this application (that means both the Android app and the E
 
 To Do:
 
-  1.To keep a record of date&time for each command sent (with some cloud support)
-  2.Synchronized apps for all devices; that means to dig in the AppInventor code :-(
+  - 1.To keep a record of date&time for each command sent (with some cloud support)
+  - 2.Synchronized apps for all devices; that means to dig in the AppInventor code :-(
