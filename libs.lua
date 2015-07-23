@@ -1,3 +1,4 @@
+--The file named "stat" must be created first and uploaded on ESP8266
 local moduleName = ...
 local M = {}
 _G[moduleName] = M
