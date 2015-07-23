@@ -1,6 +1,8 @@
 # ESP8266-FourRelays
 Control over the Internet either from an Android app or from the browser. 
 
+A little history
+
 A few years ago I began this application, before knowing about Arduino and long before ESP8266.
 At the beginnings, there were these parts:
   - An Apache Server that runs on a Linux system
@@ -14,7 +16,13 @@ The source for AppInventor application is so difficult to maintain or modify so 
 
 The main feature for this application (that means both the Android app and the ESP8266 program) is that it memorize the last status of the outputs and refresh it on the remote device or update the status if something happened with ESP8266. For short: you can see, when the app starts on the device, what is the actual status of the outputs.
 
-To Do:
+    To Do:
+    
+    - 1.To keep a record of date&time for each command sent (with some cloud support)
+    - 2.Synchronized apps for all devices; that means to dig in the AppInventor code :-(
 
-  - 1.To keep a record of date&time for each command sent (with some cloud support)
-  - 2.Synchronized apps for all devices; that means to dig in the AppInventor code :-(
+Description
+
+The hardware used is ESP8266-12, mounted on a developpement board as is seen here: http://www.aliexpress.com/store/product/ESP8266-serial-WIFI-industrial-grade-stable-version-of-the-test-plate-full-Total-IO-extraction/431798_32242633472.html
+
+The four 
